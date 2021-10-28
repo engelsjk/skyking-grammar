@@ -1,7 +1,6 @@
 # skyking-grammar
 
-Install modules and run.
-
 ```bash
+npm i
 node index.js
 ```
